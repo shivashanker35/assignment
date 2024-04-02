@@ -1,0 +1,6 @@
+s1=input()
+s2=input()
+if lens(s1)==lens(s2) and sorted(s1)==sorted(s2):
+print("True")
+else:
+print("False")
